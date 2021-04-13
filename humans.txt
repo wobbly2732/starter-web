@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tim Chapman	tchapman@purestorage.com wobbly1
 
 # THANKS
 
