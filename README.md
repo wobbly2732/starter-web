@@ -18,4 +18,5 @@ This is a simple web project, deployment can be on any web server or even local 
 
 Please fork this repository then issue pull request for review
 ## Copyright
-Git.Training.
+
+2021 @wobbly1 all rights reserved
