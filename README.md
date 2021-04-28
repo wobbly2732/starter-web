@@ -18,4 +18,4 @@ This is a simple web project, deployment can be on any web server or even local 
 Please fork this repository then issue pull request for review
 ## Copyright
 
-2021 @wobbly1 all rights reserved
+Copyright @wobbly2732 April 2021 all rights reserved
